@@ -71,7 +71,6 @@ Endee is used as the **vector database layer** in this project.
 
 * **Python**
 * **Endee (Vector Database Concept)**
-* **ChromaDB (Endee-compatible implementation)**
 * **Sentence Transformers**
 * **Streamlit**
 * **PyPDF**
