@@ -1,0 +1,33 @@
+Project Expectations
+
+Candidates are expected to:
+
+- Develop a well-defined AI/ML project using Endee (https://github.com/endee-io/endee) as the vector database.
+- Demonstrate a practical use case such as:
+- Semantic Search
+- RAG (Retrieval Augmented Generation)
+- Recommendations
+- Agentic AI workflows
+- Or similar AI applications where vector search is core.
+- Host the complete project on GitHub.
+- Provide a clean and comprehensive README including:
+- Project overview and problem statement
+- System design and technical approach
+- Explanation of how Endee is used
+- Clear setup and execution instructions
+
+Mandatory Repository Usage Steps
+
+To ensure uniformity and authenticity of evaluation, candidates must strictly follow these steps before starting their project:
+
+- Star the official Endee GitHub repository (https://github.com/endee-io/endee)
+- Fork the repository to their personal GitHub account.
+- Use the forked version as the base for building their project.
+
+This process is mandatory and will be strictly enforced to ensure all candidates are working from the same base repository.
+
+Submission Requirement
+
+Candidates must share the GitHub repository link as part of the evaluation process.
+
+Time Window: Candidates will have 2 days to build and submit the project.
