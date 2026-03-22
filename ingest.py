@@ -16,7 +16,7 @@ def chunk_text(text, size=200):
     words = text.split()
     return [" ".join(words[i:i+size]) for i in range(0, len(words), size)]
 
-def ingest(folder="endee/mini-search/data"):
+def ingest(folder="mini-search/data"):
     for file in os.listdir(folder):
         path = os.path.join(folder, file)
         text = extract_text(path)
